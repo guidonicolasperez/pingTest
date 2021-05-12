@@ -1,0 +1,13 @@
+C:\Users\Guido\source\repos\PingTest\PingTest\bin\Debug\netcoreapp3.1\PingTest.exe
+C:\Users\Guido\source\repos\PingTest\PingTest\bin\Debug\netcoreapp3.1\PingTest.deps.json
+C:\Users\Guido\source\repos\PingTest\PingTest\bin\Debug\netcoreapp3.1\PingTest.runtimeconfig.json
+C:\Users\Guido\source\repos\PingTest\PingTest\bin\Debug\netcoreapp3.1\PingTest.runtimeconfig.dev.json
+C:\Users\Guido\source\repos\PingTest\PingTest\bin\Debug\netcoreapp3.1\PingTest.dll
+C:\Users\Guido\source\repos\PingTest\PingTest\bin\Debug\netcoreapp3.1\PingTest.pdb
+C:\Users\Guido\source\repos\PingTest\PingTest\obj\Debug\netcoreapp3.1\PingTest.AssemblyInfoInputs.cache
+C:\Users\Guido\source\repos\PingTest\PingTest\obj\Debug\netcoreapp3.1\PingTest.AssemblyInfo.cs
+C:\Users\Guido\source\repos\PingTest\PingTest\obj\Debug\netcoreapp3.1\PingTest.csproj.CoreCompileInputs.cache
+C:\Users\Guido\source\repos\PingTest\PingTest\obj\Debug\netcoreapp3.1\PingTest.dll
+C:\Users\Guido\source\repos\PingTest\PingTest\obj\Debug\netcoreapp3.1\PingTest.pdb
+C:\Users\Guido\source\repos\PingTest\PingTest\obj\Debug\netcoreapp3.1\PingTest.genruntimeconfig.cache
+C:\Users\Guido\source\repos\PingTest\PingTest\obj\Debug\netcoreapp3.1\PingTest.csprojAssemblyReference.cache
